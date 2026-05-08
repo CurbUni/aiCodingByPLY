@@ -16,10 +16,13 @@
 
 1. **安装环境依赖**：
    在终端中运行以下命令安装必需的库：
-   '''
+
+   ```
    pip install -r requirements.txt
-   '''
+   ```
+
 2. **启动 Streamlit 服务**：
-   '''
+
+   ```
    streamlit run app.py
-   '''
+   ```
